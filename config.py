@@ -1,0 +1,6 @@
+api_key_NYT = "nHoMcuOC7ZsGQBVEBrKt6eLqVE06Attv"
+api_key_weather = '028101d361526030bd8c6b3d91ede15d'
+api_key_NBA = "50718737c0mshe75da4de360b64fp174606jsn214aa1a3bcb9"
+api_key_NBA_fer = "319674375dmsh748dabd60d5fa91p111fdbjsnf7f52642baeb"
+api_key_NBA_marco= "79b06bbd59msh5a8e194f02a1c04p189ab3jsn0072a55462c5"
+SportsRadar_ApiKey_Marco = "rff4ry5exdyuc6s6dmgfyas6"
