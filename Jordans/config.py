@@ -1,0 +1,3 @@
+api_key_NBA = "50718737c0mshe75da4de360b64fp174606jsn214aa1a3bcb9"
+api_key_NBA_fer = "319674375dmsh748dabd60d5fa91p111fdbjsnf7f52642baeb"
+api_key_NBA_marco= "79b06bbd59msh5a8e194f02a1c04p189ab3jsn0072a55462c5"
